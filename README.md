@@ -10,8 +10,8 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a></p>
 <h2> 🔃 Repository 
-    <a target="_blank" href="https://github.com/ADR600/DataScience.git" style="display: inline-block;">
-    Data Analytics
+   <p><a target="_blank" href="https://github.com/ADR600/DataScience.git" style="display: inline-block;">
+    Data Analytics</a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/vzvzvzv" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 Gmail:[ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
