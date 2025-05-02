@@ -3,8 +3,8 @@
 
 <p>RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. Proficient in Digital desgin - concepts like latches ,flipflop,state machines and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting and understanding of Linux OS(where I run all my code).</p>
 <h2>🚀 Languages and Tools I generally work on </h2>
-<h3>Verilog</h3>
-<h3>SystemVerilog</h3>
+<h4>Verilog</h4>
+<h4>SystemVerilog</h4>
 Tools- Xilinx ISE,Vivado ,Quartus Prime,EDA Playground
 
 <h2> 🔃 Repository </h2>
