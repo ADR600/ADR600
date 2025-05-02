@@ -8,9 +8,8 @@
 Tools- Xilinx ISE,Vivado ,Quartus Prime,EDA Playground
 
 <h2> 🔃 Repository </h2>
-   [Everything Verilog](https://github.com/ADR600/Verilog.git);
-   
-    ![image](https://github.com/user-attachments/assets/734c2b67-eb68-4841-8974-09812eb7601c)
+   <p>View the repository here: <a href="https://github.com/username/repository-name">Everything Verilog</a></p>
+
 <h2>⚡️ Where to find me</h2>
 <p>
   <a href="https://www.linkedin.com/in/ankith-rao-99a77525b" style="display: inline-block;">
