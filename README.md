@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm  Ankith</h1>
-![image](https://github.com/user-attachments/assets/b1b6a95f-faf8-4e22-b61a-15d95cd25510)
+![![image](https://github.com/user-attachments/assets/31f61e5a-934f-4aae-8629-33e07dba8fb6)
+](https://github.com/user-attachments/assets/b1b6a95f-faf8-4e22-b61a-15d95cd25510)
 
 <p>RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. Proficient in Digital desgin - concepts like latches ,flipflop,state machines and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting and understanding of Linux OS(where I run all my code).</p>
 <h2>🚀 Languages and Tools I generally work on </h2>
