@@ -1,17 +1,13 @@
 <h1>Hi 👋, I'm  Ankith</h1>
 <p>RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. Proficient in Digital desgin - concepts like latches ,flipflop,state machines and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting and understanding of Linux OS(where I run all my code).</p>
 <h2>🚀 Languages and Tools I generally work on </h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a></p>
+Verilog
+SystemVerilog
+Tools- Xilinx ISE,Vivado ,Quartus Prime,EDA Playground
+
 <h2> 🔃 Repository </h2>
-   <p><a target="_blank" href="https://github.com/ADR600/DataScience.git" style="display: inline-block;">
-    Data Analytics</a></p>
+   <p><a target="_blank" href="[https://github.com/ADR600/Verilog.git](https://github.com/ADR600/Verilog.git)" style="display: inline-block;">
+    Verilog Project</a></p>
 <h2>⚡️ Where to find me</h2>
 <p>
   <a href="https://www.linkedin.com/in/ankith-rao-99a77525b" style="display: inline-block;">
