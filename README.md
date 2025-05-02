@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm  Ankith</h1>
 <img src="https://github.com/ADR600/Verilog/blob/647f3e670a8d7741b72a16673d34de53754f3cf4/waveform.png" alt="Description" width="1000" height="300"/>
-<p>RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. Proficient in Digital desgin - concepts like latches ,flipflop,state machines ,static  timing analysis and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting and understanding of Linux OS(where I run all my code :) ).</p>
+<p>I am an RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. I am proficient in Digital desgin specially in  concepts like latches ,flipflop,state machines ,static  timing analysis(metastability,jitter,skew..etc)  and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting. I work on Linux kernel using tools like Vim to edit my code,compile ,test and run simulation.</p>
 <h2>🚀 Languages and Tools I generally work on </h2>
-<h4>Verilog</h4>
-<h4>SystemVerilog</h4>
-Tools- Xilinx ISE,Vivado ,Quartus Prime,EDA Playground
+<h5>Verilog</h5>
+<h5>SystemVerilog</h5>
+<h5>Tools- Xilinx ISE,Vivado ,Quartus Prime,EDA Playground</h5>
 
 <h2> 🔃 Repository </h2>
    <p>View the repository here: <a href="https://github.com/ADR600/Verilog.git">Everything Verilog</a></p>
