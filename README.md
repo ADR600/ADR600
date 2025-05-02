@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm  Ankith</h1>
-<img src="https://github.com/ADR600/Verilog/blob/647f3e670a8d7741b72a16673d34de53754f3cf4/waveform.png" alt="Description" width="1000" height="500"/>
+<img src="https://github.com/ADR600/Verilog/blob/647f3e670a8d7741b72a16673d34de53754f3cf4/waveform.png" alt="Description" width="1000" height="300"/>
 <p>RTL Design and Verification enthusiast pursuing Bachelor’s degree in Electronics & Communication Engineering. Proficient in Digital desgin - concepts like latches ,flipflop,state machines ,static  timing analysis and much more.Strong understanding of Hardware Description Language like Verilog and System Verilog along with Python for scripting and understanding of Linux OS(where I run all my code :) ).</p>
 <h2>🚀 Languages and Tools I generally work on </h2>
 <h4>Verilog</h4>
